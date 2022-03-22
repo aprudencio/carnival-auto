@@ -72,5 +72,6 @@ public class SmokeTest extends BaseTest {
 
     }
 
+    //Implementation of tests for story number 2 pending as I spent more than two hours on story 1, making this change to commit story 2
 
 }
