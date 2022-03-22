@@ -1,5 +1,10 @@
 package Utils;
 
+/**
+ * Handles all the log operations
+ * Could be integrated with other logging tools
+ * TODO need to call some methods statically to avoid creating instances
+ */
 public class Logger {
 
     private Integer step=1;

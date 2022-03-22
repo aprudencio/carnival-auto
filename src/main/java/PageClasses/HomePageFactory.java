@@ -8,6 +8,9 @@ import org.openqa.selenium.support.PageFactory;
 
 import java.util.List;
 
+/**
+ * Page to map all the home page elements and handle interactions with this page
+ */
 public class HomePageFactory extends BasePage {
 
 

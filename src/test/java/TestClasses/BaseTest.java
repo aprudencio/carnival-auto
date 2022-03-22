@@ -10,6 +10,9 @@ import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.util.Properties;
 
+/**
+ * Handles common tasks for all tests such as loading properties and setting driver
+ */
 public class BaseTest {
 
     public WebDriver driver;

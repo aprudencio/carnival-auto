@@ -8,6 +8,9 @@ import org.openqa.selenium.support.PageFactory;
 
 import java.util.*;
 
+/**
+ * Page to map all the search page elements and handle interactions with this page
+ */
 public class SearchPageFactory extends BasePage {
 
 
